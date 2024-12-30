@@ -1,0 +1,8 @@
+linter:
+  rules:
+    # Enforce specifying types
+    - always_specify_types
+    # Avoid using print statements
+    - avoid_print
+    # Use final for fields that are not reassigned
+    - prefer_final_fields
