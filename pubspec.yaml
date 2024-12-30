@@ -1,7 +1,6 @@
 name: size_configurator
 description: A Flutter package for responsive UI design with dynamic screen scaling.
 version: 0.0.1
-author: Ritesh Agrawal <aritesh93@gmail.com>
 homepage: https://github.com/Aritesh/size_configurator.git
 
 environment:
@@ -11,6 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+contributors:
+  - Ritesh Agrawal <aritesh93@gmail.com>
 
 dev_dependencies:
   flutter_test:
